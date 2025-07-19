@@ -46,3 +46,47 @@ A full-stack Library Management System designed to manage books, users, and book
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
    cd library-management-system
+   Set up the database
+
+2 Create a MySQL/SQLite database
+
+Import the provided library.sql file
+
+Configure backend connection
+
+Update DB credentials in config or connection file
+
+Run the application
+
+3 Deploy the Java project on Tomcat (if using Java)
+
+Run the Flask/Django app (if using Python)
+
+Access via browser
+
+http://localhost:port/
+
+📸 Screenshots
+<img width="1833" height="873" alt="image" src="https://github.com/user-attachments/assets/8a936d52-d0ea-42e3-83f9-a36397e64083" />
+<img width="1825" height="880" alt="image" src="https://github.com/user-attachments/assets/6776e3d5-8059-4f75-b6f1-17c10cbba73a" />
+<img width="1863" height="893" alt="image" src="https://github.com/user-attachments/assets/e7527416-3516-46cd-9d3e-4e5b2b23183e" />
+📌 Use Cases
+School and college libraries
+
+Small community or public libraries
+
+Book tracking systems in shared reading spaces
+
+👨‍💻 Developed By
+Akash Kumar Singh
+Full Stack Developer | Java Enthusiast | Python Learner
+📧 kmrakash350@gmail.com
+📱 +91-9508849717
+
+yaml
+Copy
+Edit
+
+
+
+
